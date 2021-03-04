@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+//import logo from './logo.svg';
+import logo from './babyBilal.jpg';
 
 function App() {
   return (
@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/bilalsu"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          "CHECK ME OUT!"
         </a>
       </header>
     </div>
